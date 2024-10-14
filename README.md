@@ -11,9 +11,10 @@ The goal of this dashboard is to transform complex data into easy-to-understand 
 
 
 ## Tools Used
--	Data Cleaning – Excel - Power Query- Preparation & Processing   Power Query - Dax Query
+-	Data Cleaning – Excel - Power Query
+- Preparation & Processing   Power Query - Dax Query
 -	Data Visualization – Power BI
 
 
-### Data Cleaning
+## Data Cleaning
 Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
