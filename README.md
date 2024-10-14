@@ -23,7 +23,7 @@ Apply all necessary cleaning steps, such as removing duplicates, renaming column
 
 ## Summary of Findings
 
-- **The total employee count is 1,480, with a gender distribution of 60% male and 40% female. The distribution across departments is fairly balanced, but there are generally more male than female employees.**
+- The total employee count is 1,480, with a gender distribution of 60% male and 40% female. The distribution across departments is fairly balanced, but there are generally more male than female employees.
 
 - Employees have been with the company for an average of 7 years, with an average age of 37. 
 - Employee satisfaction is represented by a bar chart with four levels of satisfaction. As shown, the majority of responses fall into the categories of "not satisfied at all" and "dissatisfied."
